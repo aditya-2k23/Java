@@ -3,3 +3,6 @@ public class basics {
         System.out.println("Welcome to the core java class!");
     }
 }
+
+// ! Compile using javac basics.java
+// ! Run using java basics
