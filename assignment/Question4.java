@@ -1,8 +1,3 @@
-/*
- * Use a ternary operator to determine and display the customer's eligibility status.
- * Ensure proper handling of variable declarations, data types, and access modifiers.
- */
-
 package assignment;
 
 import java.util.Scanner;
