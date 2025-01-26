@@ -13,5 +13,7 @@ public class Question4 {
         String eligibility = (age >= 18 && income >= 30000 && !dueStatus) ? "You are eligible for premium membership."
                 : "You are not eligible for premium membership.";
         System.out.println(eligibility);
+
+        sc.close();
     }
 }
